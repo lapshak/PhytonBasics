@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world 
+=======
+it feels great to be able to do this all by myself. thanks to Alhamdu for the push and the patieince 
+>>>>>>> 701c22d5749b0becfecabae04e0881e003231ba0
